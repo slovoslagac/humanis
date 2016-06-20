@@ -33,6 +33,8 @@ ul {
     float: right;
 }
 
+
+
 #container {
 
 }
@@ -87,7 +89,8 @@ ul {
     width: 60%;
     margin: auto;
     background-color: aliceblue;
-    height: 950px ;
+    min-height: 850px;
+
 
 }
 
@@ -128,6 +131,9 @@ ul {
 
 }
 
+#pictures h2 {
+    margin: 2%;
+}
 
 
 /*Contact page*/
