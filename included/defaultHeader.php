@@ -11,7 +11,7 @@
             <div class="left">
                 <div id="logo">
                     <a href="<?php echo $home ?>">
-                        <img src="<?php echo $img."/Hanger_Clinic_Logo.png"?>">
+                        <img src="<?php echo $img."/logo.png"?>">
                     </a>
                 </div>
             </div>
@@ -19,9 +19,9 @@
                 <div id="menuBar">
                     <ul id="">
                         <li><a href="<?php echo $contact?>" >Kontakt</a></li>
-                        <li><a href="" >O nama</a></li>
+                        <li><a href="<?php echo $people?>" >O nama</a></li>
                         <li><a href="<?php echo $gallery?>" >Galerija</a></li>
-
+                        <li><a href="<?php echo $home?>" >Naslovna</a></li>
                     </ul>
 
                 </div>

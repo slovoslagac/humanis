@@ -8,14 +8,22 @@ p {
 }
 
 a {
-    color: white;
     text-decoration: none;
 }
- ul {
-     margin: 0;
-     padding: 0;
-     list-style: none;
- }
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+._50 {
+    width: 50%;
+}
+
+._100 {
+    width: 100%;
+}
+
 
 .left {
     float: left;
@@ -42,11 +50,16 @@ a {
     margin:auto;
 }
 
+#centerHeader a {
+    color: white;
+}
+
 #centerHeader div {
     display: block;
 }
 
 #logo {
+    padding-left: 10px;
     padding-top: 20px;
     float: left;
     width: 100%;
@@ -96,4 +109,97 @@ a {
     padding-top: 25px;
     font-weight: 20px;
     color: white;
+}
+
+/*default page*/
+
+#myCarousel {
+    margin: 10px 10px 10px 10px;
+}
+
+/*gallery*/
+#pictures {
+    padding: 10px 5px 10px 5px;
+}
+
+#pictures img {
+    width: 96%;
+    margin: 2%;
+
+}
+
+
+
+/*Contact page*/
+
+#contactBody {
+    display:  block;
+    padding-top: 60px;
+}
+
+#contactBody div {
+    float: left;
+}
+
+#contactDetails {
+    padding-left: 20px;
+    width: 40%;
+}
+
+#contactMap {
+    width: 55%;
+    height: 350px;
+}
+
+/*People page*/
+
+
+
+/* Style the list */
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {background-color: #ccc;}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+.defaultcontact {
+    display: block;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+
+#Marko div {
+    display: block;
+    float: left;
 }
