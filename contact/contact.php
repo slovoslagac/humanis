@@ -41,7 +41,7 @@
 
     <div id="mainBody">
         <div id="contactBody">
-            <div id="contactDetails" class="left">
+            <div id="contactDetails" class="col-md-6">
                 <p><strong>Radno vreme:</strong> 08-16</p>
                 <br/>
                 <p><strong>Adresa:</strong> Bulevar Kralja Aleksandra 518V,<br/>11000 Belgrade, Serbia</p>
@@ -50,7 +50,7 @@
                 <br/>
                 <p><strong>E-mail:</strong> office@humanis.rs</p>
             </div>
-            <div id="contactMap">
+            <div id="contactMap" class="col-md-6">
 
 
             </div>

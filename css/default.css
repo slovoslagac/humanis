@@ -148,13 +148,14 @@ ul {
 }
 
 #contactDetails {
-    padding-left: 20px;
-    width: 40%;
+
+    margin-left: 5%;
 }
 
 #contactMap {
-    width: 55%;
-    height: 350px;
+    margin: 5%;
+    width: 90%;
+    height: 400px;
 }
 
 /*People page*/

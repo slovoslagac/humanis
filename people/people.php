@@ -51,12 +51,12 @@
         </ul>
 
         <div id="Marko" class="tabcontent defaultcontact">
-            <div class="_50">
+            <div  class="col-md-6">
                 <h3><a href="https://rs.linkedin.com/in/marko-lukic-9a9a171b">Marko Lukić - Tehnički direktor</a></h3>
                 <img src="../img/marko_profil.jpg" />
 
             </div>
-            <div class="_50">
+            <div  class="col-md-6">
                 <h4>Fuunder - Professional and Clinical Services at Humanis</h4>
                 <p>April 2016 – Present (3 months)Belgrade</p>
                 <h4>CPO/ Professional and Clinical Services at Otto Bock</h4>
