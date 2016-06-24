@@ -21,15 +21,15 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="img/arsen/Arsen2.jpg" alt="Arsen">
+                        <img src="img/arsen/01 Arsen.jpg" alt="Arsen">
                     </div>
 
                     <div class="item">
-                        <img src="img/arsen/Arsen3.jpg" alt="Arsen">
+                        <img src="img/arsen/02 Arsen.jpg" alt="Arsen">
                     </div>
 
                     <div class="item">
-                        <img src="img/arsen/Arsen4.jpg" alt="Arsen">
+                        <img src="img/arsen/03 Arsen.jpg" alt="Arsen">
                     </div>
                 </div>
 

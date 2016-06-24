@@ -13,7 +13,7 @@
             <a href="arsen.php">
                 <div class="col-md-4">
                     <h2>Arsen</h2>
-                    <img src="../img/arsen/Arsen1.jpg" class="img-responsive img-rounded center-block" alt=""/>
+                    <img src="../img/arsen/01 Arsen.jpg" class="img-responsive img-rounded center-block" alt=""/>
                 </div>
             </a>
 

@@ -10,7 +10,7 @@
     <?php include(join(DIRECTORY_SEPARATOR, array('..', 'included', 'defaultHeader.php'))); ?>
     <div id="mainBody">
         <div id="pictures" class="row">
-            <?php $pictures = array("Arsen1", "Arsen2", "Arsen3", "Arsen4", "Arsen5", "Arsen6");
+            <?php $pictures = array("01 Arsen", "02 Arsen", "03 Arsen", "04 Arsen", "05 Arsen", "06 Arsen");
             foreach ($pictures as $pic) { ?>
                 <a href="#" data-toggle="modal" data-target=".<?php echo $pic ?>">
                     <div class="col-md-6">
